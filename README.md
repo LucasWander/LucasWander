@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey, I'm Lucas Wander! 👋
 
-<!--
-**LucasWander/LucasWander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇧🇷 Born and living in Belo Horizonte, Brazil <br>
 
-Here are some ideas to get you started:
+🔭 I’m currently looking for a job <br>
+🌱 I’m currently learning Reactjs <br>
+🤔 I’m looking for help with Next.js authentication <br>
+📫 How to reach me: [Send a email](mailto:lucaswf48@gmai.com) <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find me elsewhere 🌎
+
+🚀 [Site](https://lucaswander.github.io/) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/lucas-wander/) <br>

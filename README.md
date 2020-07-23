@@ -4,7 +4,6 @@
 
 🔭 I’m currently looking for a job <br>
 🌱 I’m currently learning Reactjs <br>
-🤔 I’m looking for help with Next.js authentication <br>
 📫 How to reach me: [Send a email](mailto:lucaswf48@gmai.com) <br>
 
 ### Find me elsewhere 🌎
